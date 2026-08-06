@@ -1,6 +1,6 @@
 # 2114. Maximum Number of Words Found in Sentences
 
-https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
+https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/
 ## Difficulty
 
 Easy
